@@ -10,7 +10,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 
 export default function HomeScreen() {
   return (
-    <SafeAreaView className="flex-1 items-center justify-center bg-white">
+    <SafeAreaView className="flex-1 items-center justify-center bg-red-900">
       <Text className="text-xl font-bold text-blue-500">
         Welcome to Nativewind!
       </Text>
